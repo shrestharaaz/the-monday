@@ -3,6 +3,8 @@
 Contributors: automattic
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
 
+This project is on github repo
+
 Requires at least: 3.9
 Tested up to: 4.3
 
